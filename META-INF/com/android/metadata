@@ -1,0 +1,11 @@
+google_patch=20200505
+ota-id=RMX1911EX_11.A.29_0290_202005130947
+ota-property-files=metadata:69:289         
+ota-required-cache=0
+ota-type=BLOCK
+ota_version=RMX1911EX_11.A.29_0290_202005130947
+patch_type=1
+post-timestamp=1589335991
+pre-device=RMX1911
+version_name=RMX1911EX_11_A.29
+wipe=0
